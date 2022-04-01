@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - I’m Fabrício Souza. A student of Front-End and Back-End Development.
 - 🌱 I’m currently learning HTML, CSS and Javascript, and I plan to learn React.js and Node.js. 
-- 📫 How to reach me: https://www.linkedin.com/in/fabr%C3%ADcio-souza-da-silva-184556192/
+- 📫 How to reach me: https://www.linkedin.com/in/fabriciosouzadasilva/
