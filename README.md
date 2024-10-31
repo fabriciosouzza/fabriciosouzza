@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I’m Fabrício Souza. A student of Front-End and Back-End Development.
-- 🌱 I’m currently learning React.js and TypeScript. 
-- 📫 How to reach me: https://www.linkedin.com/in/fabriciosouzadasilva/
+- I’m Fabrício Souza. A Junior developer in Front-End and Back-End roles.
+- 🔭 I’m currently working with the **JavaScript/TypeScript stack** to create engaging and responsive user experiences.
+- 🌱 Expanding my skills in full-stack development and exploring new frameworks and technologies. 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fabriciosouzadasilva/)
